@@ -1,0 +1,12 @@
+# Symbol map for Pokémon Colosseum Retail DOL
+# These will be populated using:
+#  - Retail symbol alignment work
+#  - Demo symbol map
+#  - Manual Ghidra analysis
+
+# Example format:
+# 80234560 OSReport
+# 80004200 main
+# 80100000 func_80100000
+
+# (Empty for now)

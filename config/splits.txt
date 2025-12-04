@@ -1,0 +1,16 @@
+# Splits file for Pokémon Colosseum: Gale of Darkness
+# This defines how the DOL is broken into sections.
+# Real addresses will be added later once porting work is ready.
+
+[DOL]
+text_start   = 0x00000000
+text_end     = 0x00000000
+
+data_start   = 0x00000000
+data_end     = 0x00000000
+
+bss_start    = 0x00000000
+bss_end      = 0x00000000
+
+[REL]
+# REL modules will be added later.
