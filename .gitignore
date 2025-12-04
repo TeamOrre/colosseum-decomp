@@ -1,7 +1,6 @@
 build/
 *.o
 *.elf
-*.map
 *.bin
 *.log
 *.bak
