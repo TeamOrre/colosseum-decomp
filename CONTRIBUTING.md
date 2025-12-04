@@ -33,11 +33,12 @@ Do not place game asset dumps, files from extracted ISOs, or copyrighted data he
 These correspond to GitHub Teams inside the organization:
 
 ### xd-decomp-core
-Core XD developers.  
-Can push feature branches, review and merge PRs, and maintain repo stability.
+XD-focused developers who may open PRs here.
 
 ### colo-decomp-core
-Colosseum-focused developers who may open PRs here.
+Core Colosseum developers.  
+Can push feature branches, review and merge PRs, and maintain repo stability.
+
 
 ### research-contributors
 Work in the `orre-research` repo (symbol maps, Ghidra notes, documentation).  
